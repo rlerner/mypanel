@@ -11,19 +11,19 @@ $pushoverToken = "??????????????????";
 $userToken = "???????????????????";
 
 $zoneMapping = [
-	1 => "Inside Garage Door"
+	1 => "Garage Door"
 	,2 => "Unknown Zone 2"
 	,3 => "Back Door"
 	,4 => "Unknown Zone 4"
 	,5 => "Kitchen Windows"
-	,6 => "Max's Bedroom Window"
-	,7 => "James's Bedroom Window"
-	,8 => "Alex's Bedroom Window"
-	,9 => "Movie Theater Room Window"
+	,6 => "Bedroom 1 Window"
+	,7 => "Bedroom 2 Window"
+	,8 => "Bedroom 3 Window"
+	,9 => "Bedroom 4 Window"
 	,10 => "Dining Room Windows"
 	,11 => "Window by Garage"
-	,12 => "Master Bedroom Windows"
-	,13 => "Bob's Office Windows"
+	,12 => "Bedroom 5 Windows"
+	,13 => "Office Windows"
 	,14 => "Unknown Zone 14"
 	,15 => "Unknown Zone 15"
 ];
